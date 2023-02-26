@@ -1,5 +1,5 @@
-﻿# webChat
-webChat is a Full Stack Chatting App.
+﻿# Time_To_Chat
+Time_To_Chat is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -87,4 +87,4 @@ bash
 
 ## Made By
 
-- [@Ranjeev](https://github.com/ranjeev20)
+- [@Pragya](https://github.com/ranjeev20)
