@@ -87,4 +87,4 @@ bash
 
 ## Made By
 
-- [@Pragya](https://github.com/ranjeev20)
+- [@Pragya](https://github.com/pragya789)
