@@ -82,7 +82,8 @@ bash
 ![image](https://user-images.githubusercontent.com/91145878/206861425-f5912d7d-ec0b-41e0-9522-b64ca2343146.png)
 
 ### View Other user Profile
-![image](https://user-images.githubusercontent.com/91145878/206858498-9f5dd2e2-8fbe-411e-adb3-a63ff5f22b86.png)
+![image](https://user-images.githubusercontent.com/89444512/221395028-847f96b8-b4d7-4ccc-8048-009500f51659.png)
+
 ## Made By
 
 - [@Ranjeev](https://github.com/ranjeev20)
