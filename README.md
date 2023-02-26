@@ -79,7 +79,8 @@ bash
 
 ### Add or Remove users from group
 
-![image](https://user-images.githubusercontent.com/91145878/206861425-f5912d7d-ec0b-41e0-9522-b64ca2343146.png)
+![image](https://user-images.githubusercontent.com/89444512/221395115-58732bb1-32e2-4b8d-88f9-8f916561ef79.png)
+
 
 ### View Other user Profile
 ![image](https://user-images.githubusercontent.com/89444512/221395028-847f96b8-b4d7-4ccc-8048-009500f51659.png)
